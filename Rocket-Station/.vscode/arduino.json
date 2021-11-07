@@ -1,0 +1,6 @@
+{
+    "sketch": "Station.ino",
+    "port": "/dev/cu.usbserial-14110",
+    "board": "esp8266:esp8266:nodemcu",
+    "programmer": "arduino:avrisp"
+}
